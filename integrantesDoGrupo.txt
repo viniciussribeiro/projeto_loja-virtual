@@ -1,0 +1,16 @@
+TRABALHO EM GRUPO: CRIAÇÃO DE  SITE
+INTEGRANTES DO GRUPO
+-Yuri Souza Santos
+Responsável por colocar o conteúdo do site, como os produtos, também pela estilização do site.
+
+-Thiago Aquilla Summo de Sá
+Responsável por criar a parte de cadastro do site.
+
+-Gustavo Henrique Lima Frizo
+Responsável por criar a parte de login do site.
+
+-Elcio Leandro Silva de Brito
+Responsável por criar a parte do frete do site.
+
+-Vinícius da Silva Ribeiro
+Responsável por criar a parte do carrinho do site.
